@@ -1,4 +1,24 @@
-EXTM3U
+#EXTM3U
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/tmYUwoDwuIIHK3yVQlvVN0J3CKh.jpg",Os Flintstones (1994)
+https://redeflixapi.store/filme/888
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/9pu2sz72eqHovp7nC30kITRHvEm.jpg",Os Flintstones Encontram Pedrácula e Frankenstone (1979)
+https://ia800104.us.archive.org/32/items/os-flintstones-encontram-pedracula-e-frankenstone-paixaoflix/CONV_Os%20Flintstones%20Encontram%20Pedr%C3%A1cula%20e%20Frankenstone.mp4
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIcsOpnO4N8W1cRj8pb2NnIGEy6bZKzIaptLSdgW15zA&s=10",Os Flintstones - Invenções de Marido (1979)
+https://dn711307.ca.archive.org/0/items/s-01-e-01-invencoes-de-marido/S01E01%20-%20Inven%C3%A7%C3%B5es%20de%20Marido.mp4
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwnX_iip7yzT_ADa6uGipBD6dFaQDmuzRgYVrTeWCNoA&s=10",Ferdinando, o Touro (1938)
+https://dn801203.us.archive.org/0/items/1938-ferdinand-the-bull/1938%20Ferdinand%2C%20the%20Bull.mp4
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-5Mdk4YDZ8p3NObD4mRANl-mv9Hf3Lrie6TFAlumvgQ&s",O Xodó Da Vovó Jóias Preciosas (1965)
+https://dn800300.us.archive.org/0/items/o-xodo-da-vovo-joias-preciosas-1965/O%20Xod%C3%B3%20da%20Vov%C3%B3%20-%20J%C3%B3ias%20Preciosas%20%281965%29.mp4
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRUig31PqD-7xk_9tj32sSDrDQuSAf2mUKbTcvOb204Q&s=10",A Família Addams O Feliz Chico do Tio Chico (1992)
+https://dn721809.ca.archive.org/0/items/a-familia-addams-ep-01-o-feliz-chico-do-tio-chico/A%20Fam%C3%ADlia%20Addams%20-%20Ep%2001%20-%20O%20Feliz%20Chico%20do%20Tio%20Chico.mp4
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZr7F2wdiK6WqCOFJli1y9Z56ehZTnUo9cDD6CHYCt4A&s=10",A Formiga Atômica - Lá Vai A Triônica (1965)
+https://dn710009.ca.archive.org/0/items/a-formiga-atomica-ep-01-la-vai-a-trionica/A%20Formiga%20At%C3%B4mica%20-%20Ep%2001%20-%20L%C3%A1%20Vai%20a%20Tri%C3%B4nica.mp4
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThE4aIomn8cqf5L-aG0r3LfZM8dRMJEZgATjsZoAt3Ug&s=10",As Aventuras de Charlie Chan - O Roubo Das Jóias Da Coroa (1972)
+https://dn801206.us.archive.org/0/items/01-o-roubo-das-joias-da-coroa/01%20O%20Roubo%20das%20J%C3%B3ias%20da%20Coroa.mp4?cnt=0
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThK1kc1uvsyhlrDMfSWbLHmUaTwfWO_cikLCooVmeYUw&s=10",Bacamarte e Chumbinho - Comendo Chumbo (1964)
+https://dn800308.us.archive.org/0/items/bacamarte-e-chumbinho-ep-01-comendo-chumbo/Bacamarte%20e%20Chumbinho%20-%20Ep%2001%20-%20Comendo%20Chumbo.mp4
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrN5uMsPKxYTefHx_gpxCGpPxGG6GucRS1MKNZ-lsJCw&s=10",Bam-Bam e Pedrita - Gridiron Girl Trouble (1971)
+https://dn600209.us.archive.org/0/items/01-gridiron-girl-trouble/01%20Gridiron%20Girl%20Trouble.mp4
 # ==========================================
 # 🐱 GATOS DE RUA, DE RICKY GERVAIS (6 EPISÓDIOS)
 # ==========================================
