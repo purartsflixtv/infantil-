@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/nGvMq9dEQwYrIbZe2N9OvVMBVSL.jpg",Dumbo (1941)
+https://redeflixapi.store/filme/11360
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/gWXeEzpOavcmv1Ca8sjqkorfuIO.jpg",A Princesa e o Duende (1991)
+https://redeflixapi.store/filme/42001
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/86YaF3sR3oFaIMhjjPQsTlkhLUq.jpg",Como Cães e Gatos (2001)
+https://redeflixapi.store/filme/10992
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/nn7raMhfVvhyvLIUdYg2ObQgowX.jpg",Um Gato de Sorte (2024)
+https://redeflixapi.store/filme/567811
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/tFPFR3ORUlsDk99it8gxw7571Q7.jpg",Gatos no Museu (2023)
+https://redeflixapi.store/filme/923579
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/kc7TJHzlLOsN0M6srM67BXdGmhn.jpg",Gato de Botas (2011)
+https://redeflixapi.store/filme/417859
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/nqLdu8Rsmn7G4vsTC53hkJkOZvr.jpg",Agente 00-Gato (2019)
+https://redeflixapi.store/filme/509733
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/tkr7K8Y0xV1oIzmyA10JZvR78Ku.jpg",Gato Sórdido (2016)
+https://redeflixapi.store/filme/355066
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/t8F7R3y7Yar2JA8IVHN6fjg2RwX.jpg",Gato de Botas 2: O Último Pedido (2022)
+https://redeflixapi.store/filme/315162
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/ptvbHUWpU8Nh6vrmSvjx4ESDgfC.jpg",O Gato de Botas: Os Três Diabos (2012)
+https://redeflixapi.store/filme/83201
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/qKBA03V9LvfpvcNfUgAwdydRSA1.jpg",A Dama e o Vagabundo (1955)
 https://redeflixapi.store/filme/10340
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/2lxu1vvIwpLby7vC92QxOurvOjt.jpg",Agente P. Disfarçado (2026) - Temporada 1
