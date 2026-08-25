@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/hCRZCkQScaK0cg2tfgqNZKYgff4.jpg", Nina: A Heroína dos Sete Mares (2023)
+https://redeflixapi.store/filme/939338
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/gowwCKxLvqnkMzlImDW3ONJWMu1.jpg", Frozen: Febre Congelante (2015)
 https://redeflixapi.store/filme/326359
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/cStiqpPNuzvjCzzI8voKhtsxjoL.jpg", Grand Prix: A Toda Velocidade (2025)
