@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/devZdyPRXMiN8HHiX7Y8s0LLEee.jpg", O Rei Leão (2019)
+https://redeflixapi.store/filme/420818
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/iMVuv6Gz5fj7vZ51IjRF3AiW87y.jpg", Mufasa: O Rei Leão (2024)
+https://redeflixapi.store/filme/762509
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/sD0uez68rYfRavx5qKO6etkwh1g.jpg", Preparação e Pouso: Operação Bola de Neve (2025)
+https://redeflixapi.store/filme/1550797
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/3UZw4D9RR2HFQd62N1WKoMdK8b7.jpg", Lego Disney Frozen: Operação Papagaios do Mar (2025)
+https://redeflixapi.store/filme/1549292
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/fwgLVVHcDT2XtR3I9ozHN2CwC0v.jpg", A Turma do Bairro - Operação Z.E.R.O. (2006)
+https://redeflixapi.store/filme/205081
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/8eOg1Yrb3ASxWqw1xj4zBP9s1rq.jpg", Operação Presente (2011)
+https://redeflixapi.store/filme/51052
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/ceS9i9TGmXfVShM89AFBvBvcSxX.jpg", Operação Filhote (2019)
+https://redeflixapi.store/filme/727057
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/wv6U9wkSk06sA9INnU5Dgx1dZV7.jpg", Ursos Sem Curso: O Filme (2020)
+https://redeflixapi.store/filme/677638
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/pFRQgHiZwHTX7LmHEI0hwocuBC3.jpg", Irmão Urso (2003)
+https://redeflixapi.store/filme/10009
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/r4kOIrwYMXInmFH8eaJ6kDoAkUW.jpg", Irmão Urso 2 (2006)
+https://redeflixapi.store/filme/10010
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/gAHNIZKG8fmK7njOTpMmLKJXiag.jpg", Robô Selvagem (2024)
 https://redeflixapi.store/filme/1184918
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/h6U4DivlNfBorJjpyGPqCYiX4yH.jpg", Scooby-Doo! Natal Assombrado (2012)
