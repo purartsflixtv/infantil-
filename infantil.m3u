@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/so0orzDTAeat2p6oZeaHYmTo4U1.jpg", Tom & Jerry: De Volta À Oz (2016)
+https://redeflixapi.store/filme/403510
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/4kUlxkWZ2GaMBNf85yEkIxIJ9Qg.jpg", Peter Pan: De Volta à Terra do Nunca (2002)
+https://redeflixapi.store/filme/16690
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/9DWSsLs8jltBxH2LSazuSR9FjpQ.jpg", Scooby-Doo! De Volta à Ilha dos Zumbis (2019)
+https://redeflixapi.store/filme/615774
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/1nkwRL17cAGO8A1yu3miRBdvOsl.jpg", Homem-Aranha: De Volta ao Lar (2017)
+https://redeflixapi.store/filme/315635
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/24p3ThN0TvLeSsZMFQZIorSIPU8.jpg", Looney Tunes: De Volta à Ação (2003)
 https://redeflixapi.store/filme/10715
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/7iV0ngs6t0A0cZJ2HekryTmOJTX.jpg", Looney Tunes - O Filme: O Dia Que a Terra Explodiu (2024)
