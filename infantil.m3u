@@ -1,4 +1,18 @@
 #EXTM3U
+# ==========================================
+# 🕷️ HOMEM-ARANHA (INFANTIL) - 9 EPISÓDIOS
+# ==========================================
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://image.tmdb.org/t/p/w500/jn4jKQHhQrtBf85oEsPXxaudDoF.jpg", [SERIE] Homem-Aranha (Infantil)
+#SINOPSE: As divertidas e emocionantes aventuras do Homem-Aranha em uma versão infantil, cheia de ação, amizade e lições para os pequenos.
+#EPISODIO: S01E01|https://ia601504.us.archive.org/28/items/seu-amigao-da-vizinhanca-homem-aranha/Seu%20Amig%C3%A3o%20da%20Vizinhan%C3%A7a%20Homem-Aranha.mp4
+#EPISODIO: S01E02|https://ia903101.us.archive.org/15/items/1x-2_20260804/1x2.mp4
+#EPISODIO: S01E03|https://ia600908.us.archive.org/15/items/seu-amigao/Seu%20Amig%C3%A3o.mp4
+#EPISODIO: S01E04|https://ia903101.us.archive.org/31/items/seu-a/Seu%20A.mp4
+#EPISODIO: S01E05|https://ia601907.us.archive.org/25/items/vizinhanca-homem-aranha/Vizinhan%C3%A7a%20Homem-Aranha.mp4
+#EPISODIO: S01E06|https://ia601809.us.archive.org/4/items/homem-aranha_202608/Homem-Aranha.mp4
+#EPISODIO: S01E07|https://ia600607.us.archive.org/34/items/aranha_202608/Aranha.mp4
+#EPISODIO: S01E08|https://ia903202.us.archive.org/23/items/vizinhanca-homem-aranha_202608/Vizinhan%C3%A7a%20Homem-Aranha.mp4
+#EPISODIO: S01E09|https://ia601002.us.archive.org/34/items/seu-vizinhanca-aranha/Seu%20Vizinhan%C3%A7a%20Aranha.mp4
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/o0QndnepFPWget2kdKpzh26RBYt.jpg", A Morte de Robin Hood (2026)
 https://redeflixapi.store/filme/1284465
 #EXTINF:-1 group-title="Filmes" tvg-logo="https://image.tmdb.org/t/p/w500/jIq6VLvkl3APntb552IFhSq3VEg.jpg", De Volta para o Futuro (1985)
