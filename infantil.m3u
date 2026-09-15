@@ -1035,10 +1035,10 @@ https://redeflixapi.store/filme/45162
 # ==========================================
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL77d8kiOm1l9OcvN1OA15XvYuryfUbVnrryKk9ZbGXw&s=10", [SERIE] Os Batutinhas (1982)
 #SINOPSE: Os Batutinhas - Uma turma de crianças travessas vive aventuras cheias de humor e confusão, sempre aprontando brincadeiras que terminam em lições sobre amizade e trabalho em equipe.
-#EPISODIO: S01E00|https://dn720306.ca.archive.org/0/items/20230301_20230301_2116/Abertura.mp4
-#EPISODIO: S01E01|https://dn720306.ca.archive.org/0/items/20230301_20230301_2116/1.%20O%20p%C3%A9%20de%20atleta.mp4
-#EPISODIO: S01E02|https://dn600205.us.archive.org/0/items/20230301_20230301_2116/2.%20A%20dan%C3%A7a%20dos%20sonhos.mp4
-#EPISODIO: S01E03|https://dn720306.ca.archive.org/0/items/20230301_20230301_2116/3.%20Desenvolvendo%20m%C3%BAsculos%20%28ESQUETE%29.mp4
+#EPISODIO: Abertura|https://dn720306.ca.archive.org/0/items/20230301_20230301_2116/Abertura.mp4
+#EPISODIO: S01E01 - O Pé de Atleta|https://dn720306.ca.archive.org/0/items/20230301_20230301_2116/1.%20O%20p%C3%A9%20de%20atleta.mp4
+#EPISODIO: S01E02 - A Dança dos Sonhos|https://dn600205.us.archive.org/0/items/20230301_20230301_2116/2.%20A%20dan%C3%A7a%20dos%20sonhos.mp4
+#EPISODIO: S01E03 - Desenvolvendo Músculos|https://dn720306.ca.archive.org/0/items/20230301_20230301_2116/3.%20Desenvolvendo%20m%C3%BAsculos%20%28ESQUETE%29.mp4
 # ==========================================
 # 📺 ACADEMIA ESTELAR (SPACE CASES)
 # ==========================================
