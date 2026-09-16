@@ -1,11 +1,20 @@
 #EXTM3U
-#EXTINF:-1 group-title="Animes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFHoaXbOp-KzttDLlQUQDbSwuNNz4YemoQXlnnuyaRTg&s", [SERIE] Musculo Total Teste
-#SINOPSE: Teste
-#EPISODIO: S01E01 - Ep 01|https://dn710006.ca.archive.org/0/items/20230120_20230120_1240/M%C3%BAsculo%20Total%20%28JPN%29/Kinnikuman%20Nisei%20-%2001%20%5BDVD%20h264%5D-megamenz-Yatogam1.mp4
-#EPISODIO: S01E02 - Ep 02|https://dn710006.ca.archive.org/0/items/20230120_20230120_1240/M%C3%BAsculo%20Total%20%28JPN%29/Kinnikuman%20Nisei%20-%2002%20%5BDVD%20h264%5D-megamenz-Yatogam1.mp4
-#EPISODIO: S01E03 - Ep 03|https://dn710006.ca.archive.org/0/items/20230120_20230120_1240/M%C3%BAsculo%20Total%20%28JPN%29/Kinnikuman%20Nisei%20-%2003%20%5BDVD%20h264%5D-megamenz-Yatogam1.mp4
-#EPISODIO: S01E04 - Ep 04|https://dn710006.ca.archive.org/0/items/20230120_20230120_1240/M%C3%BAsculo%20Total%20%28JPN%29/Kinnikuman%20Nisei%20-%2004%20%5BDVD%20h264%5D-megamenz-Yatogam1.mp4
-#EPISODIO: S01E05 - Ep 05|https://dn710006.ca.archive.org/0/items/20230120_20230120_1240/M%C3%BAsculo%20Total%20%28JPN%29/Kinnikuman%20Nisei%20-%2005%20%5BDVD%20h264%5D-megamenz-Yatogam1.mp4
+
+# ==========================================
+# 🕵️ FLINT O DETETIVE DO TEMPO (10 EPISÓDIOS)
+# ==========================================
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFde7LFKOvZFSwA7NZFONjcPwmPgnpJ-pEEj-F5cB4w&s", [SERIE] Flint, O Detetive do Tempo
+#SINOPSE: Flint, O Detetive do Tempo - As aventuras de Flint Hammerhead, um detetive que viaja no tempo junto com seu pai e amigos para resolver mistérios e corrigir erros da história.
+#EPISODIO: S01E01|https://dn600207.us.archive.org/0/items/20230118_20230118_1749/S01E01%20-%20Flint%20Sai%20da%20Pr%C3%A9-Hist%C3%B3ria%20%28Hammerhead%20Rock%21%29.mp4
+#EPISODIO: S01E02|https://dn720304.ca.archive.org/0/items/20230118_20230118_1749/S01E02%20-%20Jitterbug%20%20%28Jitterbug%29.mp4
+#EPISODIO: S01E03|https://dn720304.ca.archive.org/0/items/20230118_20230118_1749/S01E03%20-%20Eldora%20%28Eldora%29.mp4
+#EPISODIO: S01E04|https://dn720304.ca.archive.org/0/items/20230118_20230118_1749/S01E04%20-%20Talen%20%28Talen%29.mp4
+#EPISODIO: S01E05|https://dn720304.ca.archive.org/0/items/20230118_20230118_1749/S01E05%20-%20Mosbee%20%28Mosbee%29.mp4
+#EPISODIO: S01E06|https://dn720304.ca.archive.org/0/items/20230118_20230118_1749/S01E06%20-%20Coconaut%20%28Coconaut%29.mp4
+#EPISODIO: S01E07|https://dn720304.ca.archive.org/0/items/20230118_20230118_1749/S01E07%20-%20Bubblegum%20%28Bubblegum%29.mp4
+#EPISODIO: S01E08|https://dn720304.ca.archive.org/0/items/20230118_20230118_1749/S01E08%20-%20Lynx%20%28Lynx%29.mp4
+#EPISODIO: S01E09|https://dn720304.ca.archive.org/0/items/20230118_20230118_1749/S01E09%20-%20Artie%20%28Artie%29.mp4
+#EPISODIO: S01E10|https://dn720304.ca.archive.org/0/items/20230118_20230118_1749/S01E10%20-%20Getalong%20%28Go%20Getalong%29.mp4
 # ==========================================
 # 📺 Garfield
 # ==========================================
